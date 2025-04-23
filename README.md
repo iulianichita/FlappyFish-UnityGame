@@ -15,23 +15,17 @@ In this game, you control a flying fish that must dodge obstacles to survive. Th
 **2D Game Design** – simple and clean visuals
 
 ### 🕹️ How to Play
-Click or press Space to make the fish flap
+- Click or press Space to make the fish flap
 
-Avoid the obstacles
+- Avoid the obstacles
 
-The game ends when you hit something
+- The game ends when you hit something
 
-Try to beat your high score!
+- Try to beat your high score!
 
 
 ### 📦 Features
-Simple and intuitive gameplay
-
-Colorful, friendly design
-
-Real-time score system
-
-Quick restart for replayability
+Simple and intuitive gameplay, colorful, friendly design, real-time score system, quick restart for replayability
 
 
 ### 📸 Screenshots
@@ -39,13 +33,7 @@ Quick restart for replayability
 
 
 ### 🚀 What's Next?
-This is just the beginning! In the future, I’d love to add:
-
-Background music and sound effects
-
-Different levels or new types of obstacles
-
-High score saving system
+This is just the beginning! In the future, I’d love to add: background music and sound effects, different levels or new types of obstacles, high score saving system
 
 
 ### 🙌 Feedback
