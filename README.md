@@ -9,7 +9,7 @@ In this game, you control a flying fish that must dodge obstacles to survive. Th
 ### 🔧 Built With
 **Unity 6.0** – for game development and engine support
 
-C# – for game logic
+**C#** – for game logic
 
 
 **2D Game Design** – simple and clean visuals
@@ -35,7 +35,7 @@ Quick restart for replayability
 
 
 ### 📸 Screenshots
-
+[View demo video](./Demo/Screen Recording 2025-04-23 111448.mp4)
 
 
 ### 🚀 What's Next?
