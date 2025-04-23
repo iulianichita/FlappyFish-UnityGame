@@ -8,19 +8,14 @@ In this game, you control a flying fish that must dodge obstacles to survive. Th
 
 ### 🔧 Built With
 **Unity 6.0** – for game development and engine support
-
 **C#** – for game logic
-
-
 **2D Game Design** – simple and clean visuals
+
 
 ### 🕹️ How to Play
 - Click or press Space to make the fish flap
-
 - Avoid the obstacles
-
 - The game ends when you hit something
-
 - Try to beat your high score!
 
 
