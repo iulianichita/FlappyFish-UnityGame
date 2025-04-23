@@ -35,7 +35,7 @@ Quick restart for replayability
 
 
 ### 📸 Screenshots
-[View demo video](./Demo/Screen Recording 2025-04-23 111448.mp4)
+[View demo video](./Demo/ScreenRecording.mp4)
 
 
 ### 🚀 What's Next?
